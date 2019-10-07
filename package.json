@@ -49,5 +49,9 @@
   },
   "engines": {
     "node": "8.* || >= 10.*"
+  },
+  "dependencies": {
+    "emoji-button": "^2.0.0",
+    "insert-text-at-cursor": "^0.3.0"
   }
 }
